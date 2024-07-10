@@ -11,7 +11,7 @@ For example
 
     java -jar jutsu-dl.jar https://jut.su/yakusoku-neverland/season-1/episode-1.html
 
-### Arguments
+### Optional arguments
 
 `-q [360/480/720/1080/lowest/highest/default]` for quality select\
 `-d [DEST DIR]` for destination directory select
