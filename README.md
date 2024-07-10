@@ -1,5 +1,5 @@
 # Jut.su anime downloader
-**jutsu-dl is a simple CLI tool for downloading anime from jut.su**
+**jutsu-dl is a simple tool for downloading anime from jut.su, which can also be used as a backend for your application**
 Compiled packages can be downloaded [here](https://github.com/ZzEdovec/jutsu-dl/releases)
 ## HOW TO USE
 **!! You must have the latest version of [JRE 8](https://www.java.com) to run jutsu-dl** *(compatibility with openjre has not been tested, but if you use it, you need openjfx)*
@@ -19,7 +19,7 @@ You will need [DevelNext](https://develnext.org)
 ## DONATE
 **For those who want to send a voluntary donation**
 
-If you live in Russia or can send money in rubles, please use [this link](https://yoomoney.ru/to/4100116276215735)
+If you live in Russia or can send money in rubles, please use [this link](https://yoomoney.ru/to/4100116276215735)\
 For other countries and currencies, use [this](https://www.donationalerts.com/r/queinu)
 ## Friendly reminder
 jutsu-dl will not help to bypass the regional blocking of some anime seasons.
