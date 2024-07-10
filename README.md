@@ -1,5 +1,5 @@
 # Jut.su anime downloader
-**jutsu-dl is a simple tool for downloading anime from jut.su**
+**jutsu-dl is a simple CLI tool for downloading anime from jut.su**
 Compiled packages can be downloaded [here](https://github.com/ZzEdovec/jutsu-dl/releases)
 ## HOW TO USE
 **!! You must have the latest version of [JRE 8](https://www.java.com) to run jutsu-dl** *(compatibility with openjre has not been tested, but if you use it, you need openjfx)*
@@ -10,6 +10,12 @@ The approximate input of the download command looks like this
 For example
 
     java -jar jutsu-dl.jar https://jut.su/yakusoku-neverland/season-1/episode-1.html ~/Videos
+## HOW TO BUILD
+You will need [DevelNext](https://develnext.org)
+
+1. Clone the repository to local drive
+2. Open jutsu-dl file in DevelNext
+3. Click the build button in the top menu
 ## DONATE
 **For those who want to send a voluntary donation**
 

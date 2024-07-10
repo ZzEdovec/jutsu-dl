@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project author="zzedo" authorOS="Windows 11" createdAt="1697744159518" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="jutsu-dl" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1697981959570">
+<project author="zzedo" authorOS="Windows 11" createdAt="1697744159518" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="jutsu-dl" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1720633642215">
   <tree>
     <expanded>
     <path src=""/>
       <path src="/src"/>
-      <path src="/src/.theme"/>
       <path src="/src/app"/>
-      <path src="/src/app/forms"/>
       <path src="/src/app/modules"/>
+      <path src="/vendor"/>
     </expanded>
   </tree>
   <openedFiles>
