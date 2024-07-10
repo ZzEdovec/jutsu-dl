@@ -23,7 +23,7 @@ For example
 You will need [DevelNext](https://develnext.org)
 
 1. Clone the repository to local drive
-2. Open jutsu-dl.dnproject file in DevelNext
+2. Open `jutsu-dl.dnproject` file in DevelNext
 3. Click the build button in the top menu
 ## DONATE
 **For those who want to send a voluntary donation**
