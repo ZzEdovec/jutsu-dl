@@ -80,6 +80,7 @@ class AppModule extends AbstractModule
             $downloader->client()->userAgent = 'Rudi';
             $downloader->destDirectory = $path;
             $downloader->useTempFile = true;
+            $downloader->threadCount = 8;
             
             $downloader->on('successOne',function () use ($downloadLink,$path)
             {
