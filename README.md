@@ -1,5 +1,5 @@
 # Jut.su anime downloader
-**jutsu-dl is a simple tool for downloading anime from jut.su, which can also be used as a backend for your application**\
+**jutsu-dl is a simple tool for downloading anime from jut.su, which can also be used as a library for your application**\
 Compiled packages can be downloaded [here](https://github.com/ZzEdovec/jutsu-dl/releases)
 ## HOW TO USE
 **!! You must have the latest version of [JRE 8](https://www.java.com) to run jutsu-dl** *(compatibility with openjre has not been tested, but if you use it, you need openjfx)*
